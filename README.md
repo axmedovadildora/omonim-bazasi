@@ -1,0 +1,2 @@
+# omonim-bazasi
+omonim-bazasi
